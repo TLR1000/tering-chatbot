@@ -1,7 +1,7 @@
 {
-  "name": "Cool guy bot",
+  "name": "teringchatbot",
   "description": "Basic Groupme Bot written in Node",
-  "repository": "https://github.com/petemcgrath/cool-guy-bot",
-  "logo": "http://www.tailgate365.com/wp-content/uploads/2011/06/tom-hanks-906.jpg",
+  "repository": "https://github.com/TLR1000/tering-chatbot",
+  "logo": "https://i.groupme.com/225x225.jpeg.a6d9a07ddbee438c960ae99b4a78f818",
   "keywords": []
 }
